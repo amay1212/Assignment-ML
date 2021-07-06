@@ -21,3 +21,14 @@ mentor_experitse - Categorical data which shows the values in topics which is ex
 Independent Variable
 
 final_match - Binary variable (0 and 1) 0 for no match between the mentee and the mentor and 1 for a match
+
+
+# Models Used
+
+1. Logistic Regression
+   Metrics - Accuracy
+   Score - 61%
+   
+2. LightGBM Classifier
+   Metrics - Accuracy
+   Score - 63%
