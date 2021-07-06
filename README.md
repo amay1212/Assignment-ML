@@ -26,9 +26,11 @@ final_match - Binary variable (0 and 1) 0 for no match between the mentee and th
 # Models Used
 
 1. Logistic Regression
-   Metrics - Accuracy
-   Score - 61%
+   
+   - Metrics - Accuracy
+   - Score - 61%
    
 2. LightGBM Classifier
-   Metrics - Accuracy
-   Score - 63%
+   
+   - Metrics - Accuracy
+   - Score - 63%
