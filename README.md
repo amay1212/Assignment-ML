@@ -23,7 +23,7 @@ Independent Variable
 final_match - Binary variable (0 and 1) 0 for no match between the mentee and the mentor and 1 for a match
 
 
-# Models Used
+### Models Used
 
 1. Logistic Regression
    
