@@ -34,3 +34,9 @@ final_match - Binary variable (0 and 1) 0 for no match between the mentee and th
    
    - Metrics - Accuracy
    - Score - 63%
+
+### Further Improvements
+
+1. More number of features can be added to bring some more insights.
+
+2. Using Word2vec or Glove to convert the values present in a list may let us enable to dive into more semantic relationship which can led to further creation of more derived columns.
